@@ -194,7 +194,7 @@ Feature: User Login
 ## 📞 Contact
 
 **Amit Kumar Yadav**
-- 📧 Email: [123amit987kumar@gmail.com](mailto:123amit987kumar@gmail.com)
+- 📧 Email: [amit1230kr@gmail.com](mailto:amit1230kr@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/amit-kumar-yadav-tech](https://www.linkedin.com/in/amit-kumar-yadav-tech/)
 - 🐙 GitHub: [github.com/Amitkr83402](https://github.com/Amitkr83402)
 
